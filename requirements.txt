@@ -1,0 +1,7 @@
+# 独立 vLLM Benchmark 工具依赖
+# 无需安装 vllm 包，仅需以下轻量依赖：
+aiohttp>=3.9.0
+numpy>=1.24.0
+tqdm>=4.65.0
+transformers>=4.36.0
+
