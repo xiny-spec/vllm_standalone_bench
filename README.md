@@ -1,4 +1,4 @@
-# vLLM 性能基准测试工具
+# vLLM/sglang 性能基准测试工具
 
 从 `vllm-main/vllm/benchmarks/serve.py` 提取核心指标计算逻辑，**无需安装 vllm 包**即可运行。
 
